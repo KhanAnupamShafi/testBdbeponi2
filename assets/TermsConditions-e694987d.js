@@ -1,1 +1,0 @@
-import{j as s,a as e}from"./index-414ac27f.js";const n=()=>s("div",{className:"container",children:[e("section",{className:"w-full lg:h-40 bg-[#EEEEEE] text-center py-5 lg:pt-14 text-xl lg:text-4xl font-bold",children:e("p",{children:"Terms & Conditions"})}),e("div",{className:"p-5",children:e("p",{children:"Terms & Conditions"})})]});export{n as default};
